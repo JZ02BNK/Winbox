@@ -31,6 +31,8 @@ https://download2.mikrotik.com/routeros/winbox/3.19/winbox.exe
 Keterangan :
 Unduh versi yang anda butuhkan dengan cara mengganti versi pada huruf yang berwarna merah, copy kan telebih dahulu link nya ke notepad lalu ubah versi nya. kemudian copykan ke address browser kemudian klik tekan enter.
 
+![image](https://github.com/user-attachments/assets/2b3494c6-1c42-4272-a2b4-e3801849b3b9)
+
 *NB :
 -Versi 32bit dapat dijalankan di windows 32bit dan windows 64bit
 -Versi 64bit hanya bisa di jalankan di windows 64bit, tidak bisa di jalankan di windows 32bit
