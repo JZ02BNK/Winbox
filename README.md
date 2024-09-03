@@ -10,12 +10,16 @@ Versi New / baru
 
 contoh 32bit
 https://download.mikrotik.com/routeros/winbox/3.20/winbox.exe
+
 https://download.mikrotik.com/routeros/winbox/3.38/winbox.exe
+
 https://download.mikrotik.com/routeros/winbox/3.40/winbox.exe
 
 contoh 64bit
 https://download.mikrotik.com/routeros/winbox/3.20/winbox64.exe
+
 https://download.mikrotik.com/routeros/winbox/3.38/winbox64.exe
+
 https://download.mikrotik.com/routeros/winbox/3.40/winbox64.exe
 
 ================================================
@@ -25,13 +29,15 @@ Versi Old / Lama (hanya versi 32bit)
 contoh :
 
 https://download2.mikrotik.com/routeros/winbox/3.0/winbox.exe
+
 https://download2.mikrotik.com/routeros/winbox/3.12/winbox.exe
+
 https://download2.mikrotik.com/routeros/winbox/3.19/winbox.exe
+
+![image](https://github.com/user-attachments/assets/5536584b-8924-44ab-964f-f70d94b534cc)
 
 Keterangan :
 Unduh versi yang anda butuhkan dengan cara mengganti versi pada huruf yang berwarna merah, copy kan telebih dahulu link nya ke notepad lalu ubah versi nya. kemudian copykan ke address browser kemudian klik tekan enter.
-
-![image](https://github.com/user-attachments/assets/2b3494c6-1c42-4272-a2b4-e3801849b3b9)
 
 *NB :
 -Versi 32bit dapat dijalankan di windows 32bit dan windows 64bit
