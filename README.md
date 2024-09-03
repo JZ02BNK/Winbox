@@ -9,6 +9,7 @@ Trik download winbox semua versi yang tersedia
 Versi New / baru
 
 contoh 32bit
+
 https://download.mikrotik.com/routeros/winbox/3.20/winbox.exe
 
 https://download.mikrotik.com/routeros/winbox/3.38/winbox.exe
@@ -16,6 +17,7 @@ https://download.mikrotik.com/routeros/winbox/3.38/winbox.exe
 https://download.mikrotik.com/routeros/winbox/3.40/winbox.exe
 
 contoh 64bit
+
 https://download.mikrotik.com/routeros/winbox/3.20/winbox64.exe
 
 https://download.mikrotik.com/routeros/winbox/3.38/winbox64.exe
