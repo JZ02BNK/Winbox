@@ -1,8 +1,9 @@
 # Winbox
 Winbox all version
 
-![winbox](https://github.com/user-attachments/assets/7290649d-d41c-4087-a3f2-6c197879f352)
-
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/7290649d-d41c-4087-a3f2-6c197879f352" /> 
+</p>
 
 Trik download winbox semua versi yang tersedia
 
@@ -36,7 +37,9 @@ https://download2.mikrotik.com/routeros/winbox/3.12/winbox.exe
 
 https://download2.mikrotik.com/routeros/winbox/3.19/winbox.exe
 
-![image](https://github.com/user-attachments/assets/5536584b-8924-44ab-964f-f70d94b534cc)
+<p align="center"> 
+  <img src="https://github.com/user-attachments/assets/5536584b-8924-44ab-964f-f70d94b534cc" /> 
+</p>
 
 Keterangan :
 Unduh versi yang anda butuhkan dengan cara mengganti versi pada huruf yang berwarna merah, copy kan telebih dahulu link nya ke notepad lalu ubah versi nya. kemudian copykan ke address browser kemudian klik tekan enter.
